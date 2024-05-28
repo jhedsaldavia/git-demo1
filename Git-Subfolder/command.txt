@@ -52,3 +52,5 @@ git log - displays the condensed
 
 
 Added GIT Log
+
+2nd Modified Log Commands
